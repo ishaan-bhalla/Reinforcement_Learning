@@ -4,9 +4,9 @@
 
 ## About the Repository
 
-This repository hosts several projects showcasing various reinforcement learning algorithms and statistical analysis techniques. These projects were developed as part of my course at Northcap University, where I learned about these topics in-depth.
+This repository hosts several jupyter notebooks showcasing various reinforcement learning algorithms and statistical analysis techniques. These techniques/algorithms were learned as part of my course at Northcap University.
 
-### Key Projects and Algorithms
+### Key Algorithms and Techniques
 
 1. **BlackJack with First-Visit MC**:
 
